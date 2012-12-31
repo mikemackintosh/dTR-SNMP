@@ -1,0 +1,27 @@
+{
+  "name": "dtr/snmp",
+    "description": "dTR-SNMP is a SNMP wrapper class",
+    "keywords": ["snmp", "management", "mib", "oid", "networking", "dtr"],
+    "homepage": "https://github.com/mikemackintosh/dTR-SNMP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Mackintosh",
+            "email": "mike@bakeryframework.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "dTR": "src/"
+        }
+    },
+   "require": {
+        "php": ">=5.4"
+    },
+    "minimum-stability": "dev",
+ 	"extra": {
+        "branch-alias": {
+            "dev-master": "0.3.3-dev"
+        }
+    }
+}
