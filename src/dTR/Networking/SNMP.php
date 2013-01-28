@@ -30,7 +30,7 @@ class SNMP{
 
 
 /**
- * dTR-SSH Exceptions
+ * dTR-SNMP Exceptions
  * @author Mike Mackintosh
  *
  */
